@@ -1,0 +1,372 @@
+Uri: https://amberacupuncturewellness.com/
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\index.htm
+Content Type: text/html
+
+Uri: https://amberacupuncturewellness.com/about-me/
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\about-me\index.htm
+Content Type: text/html
+
+Uri: https://amberacupuncturewellness.com/booking/
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\booking\index.htm
+Content Type: text/html
+
+Uri: https://amberacupuncturewellness.com/digestive-issues/
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\digestive-issues\index.htm
+Content Type: text/html
+
+Uri: https://amberacupuncturewellness.com/gynaecology/
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\gynaecology\index.htm
+Content Type: text/html
+
+Uri: https://amberacupuncturewellness.com/intractable-diseases/
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\intractable-diseases\index.htm
+Content Type: text/html
+
+Uri: https://amberacupuncturewellness.com/japanese-cosmetic/
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\japanese-cosmetic\index.htm
+Content Type: text/html
+
+Uri: https://amberacupuncturewellness.com/methods/
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\methods\index.htm
+Content Type: text/html
+
+Uri: https://amberacupuncturewellness.com/pain-and-injury/
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\pain-and-injury\index.htm
+Content Type: text/html
+
+Uri: https://amberacupuncturewellness.com/payment-and-fees/
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\payment-and-fees\index.htm
+Content Type: text/html
+
+Uri: https://amberacupuncturewellness.com/treatments/
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\treatments\index.htm
+Content Type: text/html
+
+Uri: https://amberacupuncturewellness.com/weight-control/
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\weight-control\index.htm
+Content Type: text/html
+
+Uri: https://amberacupuncturewellness.com/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-patterns/assets/styles/utilities.css?ver=0.1.1
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-content\plugins\bluehost-wordpress-plugin\vendor\newfold-labs\wp-module-patterns\assets\styles\utilities.css
+Content Type: text/css
+
+Uri: https://amberacupuncturewellness.com/wp-content/plugins/wb4wp-wordpress-plugin-bluehost-production/build/block-generic-section.css?ver=29ffbded135d1e494ff0b47bd8c692ad
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-content\plugins\wb4wp-wordpress-plugin-bluehost-production\build\block-generic-section.css
+Content Type: text/css
+
+Uri: https://amberacupuncturewellness.com/wp-content/plugins/wb4wp-wordpress-plugin-bluehost-production/build/block-generic-wb4wp-content.css?ver=2f8a878f4dd2fcda1a03625eadc65afd
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-content\plugins\wb4wp-wordpress-plugin-bluehost-production\build\block-generic-wb4wp-content.css
+Content Type: text/css
+
+Uri: https://amberacupuncturewellness.com/wp-content/plugins/wb4wp-wordpress-plugin-bluehost-production/build/container.css?ver=63371796415726a33c060cd169fcd144
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-content\plugins\wb4wp-wordpress-plugin-bluehost-production\build\container.css
+Content Type: text/css
+
+Uri: https://amberacupuncturewellness.com/wp-content/themes/wb4wp-wordpress-theme-production/dist/blog/blog.css?ver=1.0.1296
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-content\themes\wb4wp-wordpress-theme-production\dist\blog\blog.css
+Content Type: text/css
+
+Uri: https://amberacupuncturewellness.com/wp-content/themes/wb4wp-wordpress-theme-production/dist/footer-4/footer-4.css?ver=1.0.1296
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-content\themes\wb4wp-wordpress-theme-production\dist\footer-4\footer-4.css
+Content Type: text/css
+
+Uri: https://amberacupuncturewellness.com/wp-content/themes/wb4wp-wordpress-theme-production/dist/main.css?ver=1.0.1296
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-content\themes\wb4wp-wordpress-theme-production\dist\main.css
+Content Type: text/css
+
+Uri: https://amberacupuncturewellness.com/wp-content/themes/wb4wp-wordpress-theme-production/dist/navigation-3/navigation-3.css?ver=1.0.1296
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-content\themes\wb4wp-wordpress-theme-production\dist\navigation-3\navigation-3.css
+Content Type: text/css
+
+Uri: https://amberacupuncturewellness.com/wp-content/themes/wb4wp-wordpress-theme-production/dist/navigation-3/navigation-3.js?ver=1.0.1296
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-content\themes\wb4wp-wordpress-theme-production\dist\navigation-3\navigation-3.js
+Content Type: application/javascript
+
+Uri: https://amberacupuncturewellness.com/wp-includes/css/classic-themes.min.css?ver=6.2.2
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://amberacupuncturewellness.com/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://amberacupuncturewellness.com/wp-json/
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://amberacupuncturewellness.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famberacupuncturewellness.com%2F
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://amberacupuncturewellness.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famberacupuncturewellness.com%2F&format=xml
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://amberacupuncturewellness.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famberacupuncturewellness.com%2Fabout-me%2F
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://amberacupuncturewellness.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famberacupuncturewellness.com%2Fabout-me%2F&format=xml
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://amberacupuncturewellness.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famberacupuncturewellness.com%2Fbooking%2F
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://amberacupuncturewellness.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famberacupuncturewellness.com%2Fbooking%2F&format=xml
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://amberacupuncturewellness.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famberacupuncturewellness.com%2Fdigestive-issues%2F
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://amberacupuncturewellness.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famberacupuncturewellness.com%2Fdigestive-issues%2F&format=xml
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://amberacupuncturewellness.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famberacupuncturewellness.com%2Fgynaecology%2F
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://amberacupuncturewellness.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famberacupuncturewellness.com%2Fgynaecology%2F&format=xml
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://amberacupuncturewellness.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famberacupuncturewellness.com%2Fintractable-diseases%2F
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://amberacupuncturewellness.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famberacupuncturewellness.com%2Fintractable-diseases%2F&format=xml
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://amberacupuncturewellness.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famberacupuncturewellness.com%2Fjapanese-cosmetic%2F
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://amberacupuncturewellness.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famberacupuncturewellness.com%2Fjapanese-cosmetic%2F&format=xml
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://amberacupuncturewellness.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famberacupuncturewellness.com%2Fmethods%2F
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://amberacupuncturewellness.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famberacupuncturewellness.com%2Fmethods%2F&format=xml
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://amberacupuncturewellness.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famberacupuncturewellness.com%2Fpain-and-injury%2F
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://amberacupuncturewellness.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famberacupuncturewellness.com%2Fpain-and-injury%2F&format=xml
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://amberacupuncturewellness.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famberacupuncturewellness.com%2Fpayment-and-fees%2F
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://amberacupuncturewellness.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famberacupuncturewellness.com%2Fpayment-and-fees%2F&format=xml
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://amberacupuncturewellness.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famberacupuncturewellness.com%2Ftreatments%2F
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://amberacupuncturewellness.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famberacupuncturewellness.com%2Ftreatments%2F&format=xml
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://amberacupuncturewellness.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famberacupuncturewellness.com%2Fweight-control%2F
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://amberacupuncturewellness.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famberacupuncturewellness.com%2Fweight-control%2F&format=xml
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://amberacupuncturewellness.com/wp-json/wp/v2/pages/158
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\wp\v2\pages\158
+Content Type: application/json
+
+Uri: https://amberacupuncturewellness.com/wp-json/wp/v2/pages/159
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\wp\v2\pages\159
+Content Type: application/json
+
+Uri: https://amberacupuncturewellness.com/wp-json/wp/v2/pages/160
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\wp\v2\pages\160
+Content Type: application/json
+
+Uri: https://amberacupuncturewellness.com/wp-json/wp/v2/pages/161
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\wp\v2\pages\161
+Content Type: application/json
+
+Uri: https://amberacupuncturewellness.com/wp-json/wp/v2/pages/162
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\wp\v2\pages\162
+Content Type: application/json
+
+Uri: https://amberacupuncturewellness.com/wp-json/wp/v2/pages/163
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\wp\v2\pages\163
+Content Type: application/json
+
+Uri: https://amberacupuncturewellness.com/wp-json/wp/v2/pages/187
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\wp\v2\pages\187
+Content Type: application/json
+
+Uri: https://amberacupuncturewellness.com/wp-json/wp/v2/pages/188
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\wp\v2\pages\188
+Content Type: application/json
+
+Uri: https://amberacupuncturewellness.com/wp-json/wp/v2/pages/275
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\wp\v2\pages\275
+Content Type: application/json
+
+Uri: https://amberacupuncturewellness.com/wp-json/wp/v2/pages/336
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\wp\v2\pages\336
+Content Type: application/json
+
+Uri: https://amberacupuncturewellness.com/wp-json/wp/v2/pages/692
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\wp\v2\pages\692
+Content Type: application/json
+
+Uri: https://amberacupuncturewellness.com/wp-json/wp/v2/pages/8
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-json\wp\v2\pages\8
+Content Type: application/json
+
+Uri: https://amberacupuncturewellness.com/wp-sitemap.xml
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\wp-sitemap.xml
+Content Type: application/xml
+
+Uri: https://amberacupuncturewellness.com/xmlrpc.php?rsd
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://components.mywebsitebuilder.com/fonts/font-awesome.css
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\fonts\font-awesome.css
+Content Type: text/css
+
+Uri: https://components.mywebsitebuilder.com/fonts/fontawesome-webfont.eot
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\fonts\fontawesome-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://components.mywebsitebuilder.com/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\fonts\fontawesome-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://components.mywebsitebuilder.com/fonts/fontawesome-webfont.svg
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://components.mywebsitebuilder.com/fonts/fontawesome-webfont.ttf
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://components.mywebsitebuilder.com/fonts/fontawesome-webfont.woff
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://components.mywebsitebuilder.com/fonts/fontawesome-webfont.woff2
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\fonts\fontawesome-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css?display=swap&family=Lato:400|Montserrat:400
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Lato:400|Montserrat:400
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\s\lato\v24\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://images.builderservices.io/s/cdn/v1.0/i/m?url=https:%2F%2Fstorage.googleapis.com%2Fproduction-bluehost-v1-0-8%2F328%2F1451328%2FLwoqptlX%2F574660cc68b04d668c5074653d6214d5&methods=resize%2C1000%2C5000
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\s\cdn\v1.0\i\m
+Content Type: image/jpeg
+
+Uri: https://images.builderservices.io/s/cdn/v1.0/i/m?url=https:%2F%2Fstorage.googleapis.com%2Fproduction-bluehost-v1-0-8%2F328%2F1451328%2FLwoqptlX%2F7921cdbaa81540258db5b66e0434f386&methods=resize%2C1000%2C5000
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\s\cdn\v1.0\i\m-7
+Content Type: image/jpeg
+
+Uri: https://images.builderservices.io/s/cdn/v1.0/i/m?url=https:%2F%2Fimages.unsplash.com%2Fphoto-1483137140003-ae073b395549%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DMnw1NTEzfDB8MXxzZWFyY2h8Njl8fGd1dHxlbnwwfHx8fDE2NjQwNDA3NDc%26ixlib%3Drb-1.2.1%26q%3D90%26w%3D2000%26utm_source%3Dendurance-innovation%26utm_medium%3Dreferral
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\s\cdn\v1.0\i\m-3
+Content Type: image/jpeg
+
+Uri: https://images.builderservices.io/s/cdn/v1.0/i/m?url=https:%2F%2Fimages.unsplash.com%2Fphoto-1492778297155-7be4c83960c7%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DMnw1NTEzfDB8MXxzZWFyY2h8NXx8Y2hpbmVzZSUyMG1lZGljaW5lfGVufDB8fHx8MTY2MjU5MTMzOQ%26ixlib%3Drb-1.2.1%26q%3D80%26w%3D2000
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\s\cdn\v1.0\i\m-6
+Content Type: image/jpeg
+
+Uri: https://images.builderservices.io/s/cdn/v1.0/i/m?url=https:%2F%2Fimages.unsplash.com%2Fphoto-1512291505839-65ba15729a48%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DMnw1NTEzfDB8MXxzZWFyY2h8OXx8YWN1cHVuY3R1cmV8ZW58MHx8fHwxNjYzOTk3NzY2%26ixlib%3Drb-1.2.1%26q%3D80%26w%3D2000
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\s\cdn\v1.0\i\m-2
+Content Type: image/jpeg
+
+Uri: https://images.builderservices.io/s/cdn/v1.0/i/m?url=https:%2F%2Fimages.unsplash.com%2Fphoto-1591384640699-9a85bd036da2%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DMnw1NTEzfDB8MXxzZWFyY2h8MTEyfHxtYXNzYWdlfGVufDB8fHx8MTY2MjU5MDU0Ng%26ixlib%3Drb-1.2.1%26q%3D80%26w%3D2000
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\s\cdn\v1.0\i\m-5
+Content Type: image/jpeg
+
+Uri: https://images.builderservices.io/s/cdn/v1.0/i/m?url=https:%2F%2Fimages.unsplash.com%2Fphoto-1600428877878-1a0fd85beda8%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DMnw1NTEzfDB8MXxzZWFyY2h8MTM3fHxtYXNzYWdlfGVufDB8fHx8MTY2MjU5MDU1OA%26ixlib%3Drb-1.2.1%26q%3D80%26w%3D2000
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\s\cdn\v1.0\i\m-4
+Content Type: image/jpeg
+
+Uri: https://images.builderservices.io/s/cdn/v1.0/i/m?url=https:%2F%2Fimages.unsplash.com%2Fphoto-1624716346720-6c96dfd07807%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DMnw1NTEzfDB8MXxzZWFyY2h8Nnx8YmFjayUyMHBhaW58ZW58MHx8fHwxNjYyNTkzNjM0%26ixlib%3Drb-1.2.1%26q%3D80%26w%3D2000
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\s\cdn\v1.0\i\m-1
+Content Type: image/jpeg
+
+Uri: https://runtime.builderservices.io/runtime-endurance-default/bundle.js?ver=1667516011
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\runtime-endurance-default\bundle.js
+Content Type: application/javascript
+
+Uri: https://runtime.builderservices.io/runtime-endurance-default/bundle.js?ver=1667516014
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\runtime-endurance-default\bundle-1.js
+Content Type: application/javascript
+
+Uri: https://runtime.builderservices.io/runtime-endurance-default/bundle.js?ver=1667516015
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\runtime-endurance-default\bundle-2.js
+Content Type: application/javascript
+
+Uri: https://runtime.builderservices.io/runtime-endurance-default/bundle.js?ver=1667516016
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\runtime-endurance-default\bundle-3.js
+Content Type: application/javascript
+
+Uri: https://runtime.builderservices.io/runtime-endurance-default/bundle.js?ver=1667516017
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\runtime-endurance-default\bundle-4.js
+Content Type: application/javascript
+
+Uri: https://runtime.builderservices.io/runtime-endurance-default/bundle.js?ver=1667516018
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\runtime-endurance-default\bundle-5.js
+Content Type: application/javascript
+
+Uri: https://runtime.builderservices.io/runtime-endurance-default/bundle.js?ver=1667516019
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\runtime-endurance-default\bundle-6.js
+Content Type: application/javascript
+
+Uri: https://runtime.builderservices.io/runtime-endurance-default/bundle.js?ver=1667516020
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\runtime-endurance-default\bundle-7.js
+Content Type: application/javascript
+
+Uri: https://runtime.builderservices.io/runtime-endurance-default/bundle.js?ver=1667516021
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\runtime-endurance-default\bundle-8.js
+Content Type: application/javascript
+
+Uri: https://runtime.builderservices.io/runtime-endurance-default/bundle.js?ver=1667516022
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\runtime-endurance-default\bundle-9.js
+Content Type: application/javascript
+
+Uri: https://runtime.builderservices.io/runtime-endurance-default/bundle.js?ver=1667516023
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\runtime-endurance-default\bundle-10.js
+Content Type: application/javascript
+
+Uri: https://storage.googleapis.com/production-bluehost-v1-0-8/328/1451328/LwoqptlX/77851a3f4543478ea9a4475aaed72feb
+File Name: C:\Users\Administrator\Desktop\temp1\amberwebsitebackup\amberacupuncturewellness.com\production-bluehost-v1-0-8\328\1451328\LwoqptlX\77851a3f4543478ea9a4475aaed72feb
+Content Type: image/png
+
